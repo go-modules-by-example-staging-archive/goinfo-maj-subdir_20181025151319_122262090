@@ -1,1 +1,1 @@
-module github.com/go-modules-by-example-staging/goinfo-maj-subdir
+module github.com/go-modules-by-example-staging/goinfo-maj-subdir/v2
